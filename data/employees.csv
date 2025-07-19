@@ -1,0 +1,11 @@
+id,name,department,position,email,hire_date,salary
+1,John Smith,Engineering,Senior Developer,john.smith@company.com,2022-01-15,95000
+2,Sarah Johnson,Marketing,Marketing Manager,sarah.johnson@company.com,2021-06-10,75000
+3,Mike Davis,Engineering,Team Lead,mike.davis@company.com,2020-03-22,110000
+4,Emily Brown,HR,HR Specialist,emily.brown@company.com,2023-02-01,60000
+5,David Wilson,Sales,Sales Representative,david.wilson@company.com,2022-09-12,55000
+6,Lisa Garcia,Engineering,Junior Developer,lisa.garcia@company.com,2023-07-20,65000
+7,Tom Anderson,Marketing,Content Creator,tom.anderson@company.com,2022-11-05,50000
+8,Anna Martinez,Finance,Financial Analyst,anna.martinez@company.com,2021-04-18,70000
+9,Chris Taylor,Engineering,DevOps Engineer,chris.taylor@company.com,2020-08-30,85000
+10,Rachel White,Sales,Sales Manager,rachel.white@company.com,2019-12-03,90000

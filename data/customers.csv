@@ -1,0 +1,11 @@
+id,company_name,contact_name,email,phone,industry,subscription_tier,monthly_revenue
+1,TechStart Inc,Alice Cooper,alice@techstart.com,555-0101,Technology,Professional,79
+2,Green Energy Co,Bob Parker,bob@greenenergy.com,555-0102,Energy,Enterprise,199
+3,Fashion Forward,Carol Smith,carol@fashionforward.com,555-0103,Retail,Starter,29
+4,Data Solutions,Dan Brown,dan@datasolutions.com,555-0104,Consulting,Professional,79
+5,Quick Delivery,Eve Wilson,eve@quickdelivery.com,555-0105,Logistics,Starter,29
+6,Smart Manufacturing,Frank Miller,frank@smartmfg.com,555-0106,Manufacturing,Enterprise,199
+7,Creative Agency,Grace Davis,grace@creativeagency.com,555-0107,Marketing,Professional,79
+8,HealthTech Plus,Henry Johnson,henry@healthtech.com,555-0108,Healthcare,Enterprise,199
+9,EduSoft Systems,Ivy Chen,ivy@edusoft.com,555-0109,Education,Professional,79
+10,FinanceWise LLC,Jack Thompson,jack@financewise.com,555-0110,Finance,Starter,29
