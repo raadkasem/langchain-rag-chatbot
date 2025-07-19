@@ -18,7 +18,7 @@ A comprehensive chatbot implementation using LangChain that combines Retrieval-A
 ## 📁 Project Structure
 
 ```
-project-1-github/
+langchain-rag-chatbot/
 ├── src/                          # Source code
 │   ├── basic_llm_test.py         # Basic LLM integration testing
 │   ├── document_processor.py     # Document loading and processing
